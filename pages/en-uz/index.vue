@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div v-else-if="not_found" class="flex gap-10 w-[64%] items-center mt-16">
-                <img src="../../assets/sheksper 1.png" alt="">
+                <img src="../../assets/sheksper1.png" alt="">
                 <div class="text-center w-[50%]">
                     <h1 class="text-2xl font-bold mb-7">Oops, no such word found!</h1>
                     <h3 class="text-lg">If you believe there is such a word in the language of Shakespeare, please take a
